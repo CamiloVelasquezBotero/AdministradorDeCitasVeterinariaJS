@@ -4,4 +4,4 @@ Administra las citas de una Veterinaria, permitiendo editar o eliminar la cita a
 Se separan los archivos por modulos para un mejor mantenimiento a futuro
 Se utiliza la metodologia de POO.
 
-Preview: https://administrador-citasveterinaria.netlify.app/
+Preview: https://administrador-de-citas-veterinaria-js.vercel.app/
